@@ -44,7 +44,7 @@ h1 {
   position: absolute;
   z-index: 1;
   top: auto;
-  bottom: -900px;
+  bottom: -950px;
   left: 38%;
   text-align: center;
   width: 500px;
@@ -53,7 +53,7 @@ h1 {
 
 @media only screen and (min-width: 1920px) {
   .textInImage {
-    bottom: -750px;
+    bottom: -800px;
   }
 }
 
